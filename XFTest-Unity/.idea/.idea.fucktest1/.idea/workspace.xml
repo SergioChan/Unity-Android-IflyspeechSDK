@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70af28a2-638c-4967-b1cc-c93c8f0ed05b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Speaker.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/Speaker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <marker date="1460848020000" expanded="false" signature="6:96" ph="..." />
+                <marker date="1460848020000" expanded="true" signature="118:1076" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VoiceMgr.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/VoiceMgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="160" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <marker date="1531418762933" expanded="false" signature="6:44" ph="..." />
+                <marker date="1531418762933" expanded="true" signature="83:4367" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="535:562" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="637:676" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="747:782" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="852:886" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="956:990" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="1032:1824" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="1868:1952" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="1886:1946" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2017:2119" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2047:2111" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2167:2327" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2225:2296" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2369:2523" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2433:2494" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2571:2601" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2647:2713" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2677:2710" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2744:2920" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2836:2890" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="2951:3073" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3019:3065" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3108:3234" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3178:3226" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3265:3327" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3366:3411" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3442:3529" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3484:3523" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3566:3609" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3650:3775" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3689:3724" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3807:3908" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3854:3902" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3946:4017" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="3980:4014" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="4095:4122" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="4166:4259" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="4222:4256" ph="{...}" />
+                <marker date="1531418762933" expanded="true" signature="4297:4365" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VoiceInputmgr.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/VoiceInputmgr.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <marker date="1531420800533" expanded="true" signature="6:78" ph="..." />
+                <marker date="1531420800533" expanded="true" signature="123:1646" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="173:556" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="611:618" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="639:734" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="740:843" ph="/// IflyTek result for input voice ... " />
+                <marker date="1531420800533" expanded="true" signature="871:929" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="1048:1308" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="1133:1305" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="1138:1231" ph="/* no input, if still focused, then restart listening, if not focused ... */" />
+                <marker date="1531420800533" expanded="true" signature="1269:1301" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="1345:1408" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="1448:1644" ph="{...}" />
+                <marker date="1531420800533" expanded="true" signature="1550:1641" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Voice.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/Voice.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+              <folding>
+                <marker date="1459898948000" expanded="false" signature="6:82" ph="..." />
+                <marker date="1459898948000" expanded="true" signature="102:1192" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="195:307" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="338:481" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="512:612" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="643:700" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="733:792" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="855:932" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="980:1067" ph="{...}" />
+                <marker date="1459898948000" expanded="true" signature="1109:1190" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/iFlySpeech/Speaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/iFlySpeech/VoiceMgr.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/iFlySpeech/Voice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/iFlySpeech/VoiceInputmgr.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/iFlySpeech/VoiceInputmgr.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="fucktest1" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="fucktest1" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="fucktest1" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="fucktest1" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70af28a2-638c-4967-b1cc-c93c8f0ed05b" name="Default" comment="" />
+      <created>1531418891045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531418891045</updated>
+      <workItem from="1531418897527" duration="2268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2268000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.185836" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/Speaker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1460848020000" expanded="false" signature="6:96" ph="..." />
+            <marker date="1460848020000" expanded="true" signature="118:1076" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/VoiceMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <marker date="1531418762933" expanded="false" signature="6:44" ph="..." />
+            <marker date="1531418762933" expanded="true" signature="83:4367" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="535:562" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="637:676" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="747:782" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="852:886" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="956:990" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="1032:1824" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="1868:1952" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="1886:1946" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2017:2119" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2047:2111" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2167:2327" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2225:2296" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2369:2523" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2433:2494" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2571:2601" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2647:2713" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2677:2710" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2744:2920" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2836:2890" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="2951:3073" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3019:3065" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3108:3234" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3178:3226" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3265:3327" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3366:3411" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3442:3529" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3484:3523" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3566:3609" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3650:3775" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3689:3724" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3807:3908" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3854:3902" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3946:4017" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="3980:4014" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="4095:4122" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="4166:4259" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="4222:4256" ph="{...}" />
+            <marker date="1531418762933" expanded="true" signature="4297:4365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/Voice.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+          <folding>
+            <marker date="1459898948000" expanded="false" signature="6:82" ph="..." />
+            <marker date="1459898948000" expanded="true" signature="102:1192" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="195:307" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="338:481" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="512:612" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="643:700" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="733:792" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="855:932" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="980:1067" ph="{...}" />
+            <marker date="1459898948000" expanded="true" signature="1109:1190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/iFlySpeech/VoiceInputmgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <marker date="1531420800533" expanded="true" signature="6:78" ph="..." />
+            <marker date="1531420800533" expanded="true" signature="123:1646" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="173:556" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="611:618" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="639:734" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="740:843" ph="/// IflyTek result for input voice ... " />
+            <marker date="1531420800533" expanded="true" signature="871:929" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="1048:1308" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="1133:1305" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="1138:1231" ph="/* no input, if still focused, then restart listening, if not focused ... */" />
+            <marker date="1531420800533" expanded="true" signature="1269:1301" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="1345:1408" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="1448:1644" ph="{...}" />
+            <marker date="1531420800533" expanded="true" signature="1550:1641" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
